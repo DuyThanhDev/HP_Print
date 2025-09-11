@@ -1,16 +1,10 @@
 import React from "react";
-import { useNavigate } from "react-router-dom";
 import Header from "../../components/Header";
 import HeaderUnder from "../../components/HeaderUnder";
 import Sidebar from "../../components/Sidebar";
 import Footer from "../../components/Footer";
 
-const Pro01LaserMicaPage: React.FC = () => {
-  const navigate = useNavigate();
-  const handleClickTin1 = () => {
-    navigate("/productLaserMica/pro02");
-    window.scrollTo({ top: 0, behavior: "smooth" });
-  };
+const Pro02LaserMicaPage: React.FC = () => {
   return (
     <div className="min-h-screen flex flex-col bg-white">
       <Header />
@@ -103,17 +97,14 @@ const Pro01LaserMicaPage: React.FC = () => {
           </div>
           <div className="flex flex-col md:flex-row gap-6">
             {/* Tin 1 */}
-            <div
-              className="flex-1 bg-white rounded-lg p-4 flex flex-col group cursor-pointer"
-              onClick={handleClickTin1}
-            >
+            <div className="flex-1 bg-white rounded-lg p-4 flex flex-col group">
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp1.jpg" alt="In UV trên kính cường lực" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-[20px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-lg mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trên kính cường lực.<br/>Những lý do nên chọn in UV trên kính cường lực.
               </div>
-              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+              <div className="flex items-center text-gray-500 text-base mb-2">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                 17 Apr 2019
               </div>
@@ -124,10 +115,10 @@ const Pro01LaserMicaPage: React.FC = () => {
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp2.jpg" alt="In UV trên mica tại in UV Hoà Bình" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-[20px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-lg mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trên mica tại in UV Hoà Bình
               </div>
-              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+              <div className="flex items-center text-gray-500 text-base mb-2">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                 21 Apr 2019
               </div>
@@ -138,10 +129,10 @@ const Pro01LaserMicaPage: React.FC = () => {
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp3.jpg" alt="In UV trực tiếp lên kim loại" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-[20px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-lg mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trực tiếp lên kim loại : Sắt, Inox, Nhôm, thép,
               </div>
-              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+              <div className="flex items-center text-gray-500 text-base mb-2">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                 24 Mar 2023
               </div>
@@ -157,4 +148,4 @@ const Pro01LaserMicaPage: React.FC = () => {
   );
 };
 
-export default Pro01LaserMicaPage;
+export default Pro02LaserMicaPage;
