@@ -14,7 +14,7 @@ const items = [
 
 function Sibar() {
 	return (
-		<div className="border border-gray-300 w-80 sticky top-8 h-fit">
+		<div className="border border-gray-300 w-76 sticky top-8 h-fit">
 			<div className="bg-[#f4c73c] text-white font-bold text-lg px-4 py-2 border-b border-gray-300">
 				HÒA BÌNH CHUYÊN
 			</div>
