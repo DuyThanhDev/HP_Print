@@ -8,11 +8,11 @@ function AboutPage() {
     <div className="min-h-screen flex flex-col bg-white">
       <Header />
       <HeaderUnder current="GIỚI THIỆU" />
-      <div className="flex flex-1 max-w-6xl mx-auto w-full mt-6 mb-8">
+      <div className="flex flex-1 max-w-7xl mx-auto w-full mt-6 mb-8">
         {/* Sidebar */}
-        <div className="hidden md:block mr-8">
-          <Sibar />
-        </div>
+    <div className="hidden md:block mr-12">
+      <Sibar />
+    </div>
         {/* Main content */}
         <main className="flex-1">
           <div className="box-single-pages">
