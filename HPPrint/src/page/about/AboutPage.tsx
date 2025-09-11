@@ -7,7 +7,7 @@ function AboutPage() {
   return (
     <div className="min-h-screen flex flex-col bg-white">
       <Header />
-      <HeaderUnder current="GIỚI THIỆU" />
+      <HeaderUnder/>
       <div className="flex flex-1 max-w-7xl mx-auto w-full mt-6 mb-8">
         {/* Sidebar */}
     <div className="hidden md:block mr-10">

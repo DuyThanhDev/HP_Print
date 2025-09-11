@@ -1,12 +1,14 @@
 
 import React from "react";
+import { useLocation } from "react-router-dom";
+import { PAGE_TITLES } from "../data/pageTitles";
 
-interface HeaderUnderProps {
-	current: string; // Tên trang hiện tại
-}
+const HeaderUnder: React.FC = () => {
+	const location = useLocation();
+	// Lấy segment đầu tiên sau dấu '/'
+	const path = location.pathname.split("/").filter(Boolean)[0] || "home";
+	const current = PAGE_TITLES[path] || "TRANG";
 
-
-const HeaderUnder: React.FC<HeaderUnderProps> = ({ current }) => {
 	return (
 		<div className="w-full bg-gradient-to-r from-teal-700 via-blue-900 to-yellow-700 py-4 px-4">
 			<div className="max-w-7xl mx-auto flex items-center space-x-2 justify-end">
