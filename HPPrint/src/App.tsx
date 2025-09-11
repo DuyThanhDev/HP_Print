@@ -1,7 +1,8 @@
 
 import Footer from "./components/Footer";
-import Header from "./components/header";
+import Header from "./components/Header";
 import HeaderUnder from "./components/HeaderUnder";
+import Sibar from "./components/Sibar";
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
         <h1 className="text-2xl font-bold">Trang Giới Thiệu</h1>
         <p className="mt-4 text-gray-600">Nội dung giới thiệu công ty...</p>
       </div>
+      <Sibar />
       <Footer />
     </>
   );
