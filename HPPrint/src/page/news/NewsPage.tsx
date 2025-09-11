@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../../components/Header";
 import HeaderUnder from "../../components/HeaderUnder";
-import Sibar from "../../components/Sibar";
+import Sidebar from "../../components/Sidebar";
 import Footer from "../../components/Footer";
 
 const NewsPage: React.FC = () => {
@@ -12,7 +12,7 @@ const NewsPage: React.FC = () => {
       <div className="flex flex-1 max-w-7xl mx-auto w-full mt-6 mb-8">
         {/* Sidebar */}
     <div className="hidden md:block mr-10">
-      <Sibar />
+      <Sidebar />
         </div>
 
     <div className="max-w-5xl mx-auto py-8 px-4 min-h-[60vh]">

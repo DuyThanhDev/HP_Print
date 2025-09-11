@@ -1,6 +1,6 @@
 import Header from "../../components/Header";
 import HeaderUnder from "../../components/HeaderUnder";
-import Sibar from "../../components/Sibar";
+import Sidebar from "../../components/Sidebar";
 import Footer from "../../components/Footer";
 
 function AboutPage() {
@@ -11,7 +11,7 @@ function AboutPage() {
       <div className="flex flex-1 max-w-7xl mx-auto w-full mt-6 mb-8">
         {/* Sidebar */}
     <div className="hidden md:block mr-10">
-      <Sibar />
+      <Sidebar />
     </div>
         {/* Main content */}
         <main className="flex-1">

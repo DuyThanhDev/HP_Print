@@ -1,7 +1,7 @@
 import React from "react";
 import Header from "../../components/Header";
 import HeaderUnder from "../../components/HeaderUnder";
-import Sibar from "../../components/Sibar";
+import Sidebar from "../../components/Sidebar";
 import Footer from "../../components/Footer";
 
 const Pro01LaserMicaPage: React.FC = () => {
@@ -12,7 +12,7 @@ const Pro01LaserMicaPage: React.FC = () => {
       <div className="flex flex-1 max-w-7xl mx-auto w-full mt-6 mb-8">
         {/* Sidebar */}
         <div className="hidden md:block mr-10">
-          <Sibar />
+          <Sidebar />
         </div>
         {/* Main content */}
         <main className="flex-1">
@@ -71,8 +71,8 @@ const Pro01LaserMicaPage: React.FC = () => {
               <img src="/assets/cat01/cat7.jpg" className="rounded-lg w-full object-cover" />
               </div>
               <p className="text-[20px]">Hãy <span className="text-red-600 text-[20px]">liên hệ ngay : 0837.622.922</span> Để được tư vấn và báo giá tốt nhất và nhanh nhất.</p>
-              <div className="text-[20px] text-red-600 font-sans mt-6">IN UV HOÀ BÌNH - IN ẤN HOÀ BÌNH</div>
-              <div className="text-[16px] text-gray-800 font-sans mt-2">
+              <div className="text-[22px] text-red-600 font-sans mt-6">IN UV HOÀ BÌNH - IN ẤN HOÀ BÌNH</div>
+              <div className="text-[18px] text-gray-800 font-sans mt-2">
                 W : <a href="https://inuvhoabinh.com/" className="text-blue-400 underline">https://inuvhoabinh.com/</a> - <a href="https://inanhoabinh.com/" className="text-blue-400 underline">https://inanhoabinh.com/</a><br />
                 T : 0901.622.922 - 0977.973.064<br />
                 E : inuvhoabinh@gmail.com<br />
