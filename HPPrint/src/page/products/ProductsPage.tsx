@@ -7,32 +7,44 @@ import Footer from "../../components/Footer";
 
 const productsList = [
   {
-    title: "IN UV MICA",
-    img: "/assets/matphang/phang01.jpg", // Đường dẫn ảnh mẫu
+    title: "CHẤT LIỆU MICA, NHỰA PVC",
+    img: "/assets/pro/pro01.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "IN UV TRÊN KÍNH",
-    img: "/assets/matphang/phang02.jpg", // Đường dẫn ảnh mẫu
+    title: "CHẤT LIỆU INOX, ALU, NHÔM, SẮT, KIM LOẠI",
+    img: "/assets/pro/pro02.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "IN UV TRÊN SẮT, NHÔM, INOX, ALU",
-    img: "/assets/matphang/phang03.jpg", // Đường dẫn ảnh mẫu
+    title: "CHẤT LIỆU FOAM, FORMEX, PIMA",
+    img: "/assets/pro/pro03.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "IN UV TRÊN NHỰA ABS, PVC",
-    img: "/assets/matphang/phang04.jpg", // Đường dẫn ảnh mẫu
+    title: "CHẤT LIỆU KÍNH",
+    img: "/assets/pro/pro04.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "IN UV TRÊN DA, SIMILI",
-    img: "/assets/matphang/phang05.jpg", // Đường dẫn ảnh mẫu
+    title: "CHẤT LIỆU GỖ",
+    img: "/assets/pro/pro05.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "IN UV TRÊN FORMEX, FOAM, PIMA",
-    img: "/assets/matphang/phang06.jpg", // Đường dẫn ảnh mẫu
+    title: "CHẤT LIỆU DA, SIMILI",
+    img: "/assets/pro/pro06.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "IN UV TRÊN GỖ, VÁN MDF",
-    img: "/assets/matphang/phang07.jpg", // Đường dẫn ảnh mẫu
+    title: "CẮT LASER MICA",
+    img: "/assets/pro/pro07.jpg", // Đường dẫn ảnh mẫu
+  },
+  {
+    title: "CHẤT LIỆU CANVAS, RÈM NHỰA",
+    img: "/assets/pro/pro08.jpg", // Đường dẫn ảnh mẫu
+  },
+  {
+    title: "In UV PHẲNG",
+    img: "/assets/pro/pro09.jpg", // Đường dẫn ảnh mẫu
+  },
+  {
+    title: "In UV CUỘN",
+    img: "/assets/pro/pro10.jpg", // Đường dẫn ảnh mẫu
   },
 ];
 
