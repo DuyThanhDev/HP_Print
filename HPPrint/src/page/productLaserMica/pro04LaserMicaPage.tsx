@@ -56,48 +56,128 @@ const Pro04LaserMicaPage: React.FC = () => {
                   D : 122 Lê Niệm, Phường Phú Thạnh, Quận Tân Phú, TP. Hồ Chí Minh
                 </div>
               </div>
-              <div className="my-4 flex flex-wrap items-center">
-                <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html" className="text-red-600 underline font-bold italic">&gt;&gt;BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KIM LOẠI TẠI ĐÂY &lt;&lt;</a>
-                <span className="ml-2">Hoặc link :</span> <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html" className="text-blue-700 underline ml-1">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html</a>
+              <div className="my-4">
+                <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html" className="text-red-600 underline font-bold">
+                  BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KIM LOẠI TẠI ĐÂY 
+                </a>
+                <a className="ml-2">Hoặc link : </a><a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html</a>
               </div>
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
                 <span className="text-blue-700 font-bold underline">In uv trên inox xước</span> làm bảng mô tả công trình xây dựng để ngoài trời.
               </div>
               <div className="my-4">
-                <img src="https://inanhoabinh.com/wp-content/uploads/2022/12/z3833155574306_662f52d4158b58aabd4a953e9efa20d7-1024x484.jpg" alt="In uv trên inox xước" className="rounded-lg w-full object-cover" />
+              <img src="/assets/cat04/cat0001.jpg" className="rounded-lg w-full object-cover" />
               </div>
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
                 <span className="text-blue-700 font-bold underline">In uv trên inox bóng chấn cạnh</span> làm tên phòng giao dịch cho BIDV Hóc Môn
               </div>
               <div className="my-4">
-                <img src="https://inanhoabinh.com/wp-content/uploads/2022/12/z3833155547330_3acf220423d833d6d1f51b986c0f189e-1024x576.jpg" alt="In uv trên inox bóng chấn cạnh" className="rounded-lg w-full object-cover" />
+              <img src="/assets/cat04/cat0002.jpg" className="rounded-lg w-full object-cover" />
               </div>
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
                 <span className="text-blue-700 font-bold underline">In uv trên alu xước</span> làm bảng tiêu lệnh phòng cháy chữa cháy.
               </div>
               <div className="my-4">
-                <img src="https://inanhoabinh.com/wp-content/uploads/2021/02/in-uv-tieu-lenh-chua-chay-1-1024x768.jpg" alt="In uv trên alu xước" className="rounded-lg w-full object-cover" />
+              <img src="/assets/cat04/cat0003.jpg" className="rounded-lg w-full object-cover" />
               </div>
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
                 <span className="text-blue-700 font-bold underline">In uv trên inox</span> làm hướng dẫn lối thoát hiểm trong toà nhà.
               </div>
               <div className="my-4">
-                <img src="/image/z4208027966078_55d1b3aabf4de2724ab87474128bc264.jpg" alt="In uv trên inox" className="rounded-lg w-full object-cover" />
+              <img src="/assets/cat04/cat0004.jpg" className="rounded-lg w-full object-cover" />
               </div>
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
                 <span className="text-blue-700 font-bold underline">In uv trên inox gương</span> làm bảng chức danh
               </div>
               <div className="my-4">
-                <img src="/image/z4208027985852_d52d969b91c6b1dd4561e76cb8d0693f.jpg" alt="In uv trên inox gương" className="rounded-lg w-full object-cover" />
+              <img src="/assets/cat04/cat0005.jpg" className="rounded-lg w-full object-cover" />
               </div>
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
                 <span className="text-blue-700 font-bold underline">In uv trên inox</span> làm tem nhãn cho các thương hiệu, nhãn hàng.
               </div>
               <div className="my-4">
-                <img src="/image/z4208027961823_2b6c2d07083759f1915f4eaa291dc82c.jpg" alt="In uv trên inox" className="rounded-lg w-full object-cover" />
+              <img src="/assets/cat04/cat0006.jpg" className="rounded-lg w-full object-cover" />
               </div>
             </div>
+            <div className="pt-6">
+                <span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
+                <div className="mt-2 text-[16px]">
+                  W : <a href="https://inuvhoabinh.com/" className="text-blue-500 underline">https://inuvhoabinh.com/</a><br />
+                  T : 0901.622.922 - 0977.973.064<br />
+                  E : inuvhoabinh@gmail.com<br />
+                  D : 122 Lê Niệm, Phường Phú Thạnh, Quận Tân Phú, TP. Hồ Chí Minh
+                </div>
+              </div>
+              <div className="my-4">
+                <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html" className="text-red-600 underline font-bold">
+                  BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KIM LOẠI TẠI ĐÂY
+                </a>
+                <a className="ml-2">Hoặc link : </a><a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-inox-alu-nhom-sat-kim-loai.html</a>
+              </div>
           </div>
+
+                  {/* BẢN TIN LIÊN QUAN */}
+        <section className="max-w-7xl mx-auto w-full mt-8">
+          <h3 className="text-xl md:text-1xl font-bold text-gray-600 mb-2">BẢN TIN LIÊN QUAN</h3>
+          <div className="w-full h-1 flex mb-4">
+            <div className="w-36 h-0.5 bg-sky-400 rounded-l-full"></div>
+            <div className="flex-1 h-0.5 bg-gray-200 rounded-r-full"></div>
+          </div>
+          <div className="flex flex-col md:flex-row gap-6">
+            {/* Tin 1 */}
+            <div
+              className="flex-1 bg-white rounded-lg flex flex-col group cursor-pointer"
+            //   onClick={handleClickTin1}
+            >
+              <div className="overflow-hidden rounded-lg mb-3">
+                <img src="/assets/cat01/catsp1.jpg" alt="In UV trên kính cường lực" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
+              </div>
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+                In UV trên kính cường lực.<br/>Những lý do nên chọn in UV trên kính cường lực.
+              </div>
+              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                17 Apr 2019
+              </div>
+              <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
+            </div>
+
+            {/* Tin 2 */}
+            <div className="flex-1 bg-white rounded-lg flex flex-col group">
+              <div className="overflow-hidden rounded-lg mb-3">
+                <img src="/assets/cat01/catsp2.jpg" alt="In UV trên mica tại in UV Hoà Bình" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
+              </div>
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+                In UV trên mica tại in UV Hoà Bình
+              </div>
+              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                21 Apr 2019
+              </div>
+              <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
+            </div>
+
+            {/* Tin 0 */}
+            <div
+              className="flex-1 bg-white rounded-lg flex flex-col group cursor-pointer"
+              // onClick={handleClickTin1}
+            >
+              <div className="overflow-hidden rounded-lg mb-3">
+                <img src="/assets/cat01/catsp0.jpg" alt="In UV trên kính cường lực" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
+              </div>
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+                Những lý do nên chọn cắt mica với công nghệ LASER CO2 ở IN HOÀ BÌNH??
+              </div>
+              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                17 Apr 2019
+              </div>
+              <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
+            </div>
+            
+          </div>
+        </section>
+
         </main>
       </div>
       <Footer />
