@@ -11,6 +11,10 @@ const Pro01LaserMicaPage: React.FC = () => {
     navigate("/productLaserMica/pro02");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
+  const handleClickTin2 = () => {
+    navigate("/productLaserMica/pro03");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
   return (
     <div className="min-h-screen flex flex-col bg-white">
       <Header />
@@ -110,7 +114,7 @@ const Pro01LaserMicaPage: React.FC = () => {
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp1.jpg" alt="In UV trên kính cường lực" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-[20px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trên kính cường lực.<br/>Những lý do nên chọn in UV trên kính cường lực.
               </div>
               <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
@@ -120,11 +124,13 @@ const Pro01LaserMicaPage: React.FC = () => {
               <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
             </div>
             {/* Tin 2 */}
-            <div className="flex-1 bg-white rounded-lg flex flex-col group">
+            <div className="flex-1 bg-white rounded-lg flex flex-col group cursor-pointer"
+              onClick={handleClickTin2}
+            >
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp2.jpg" alt="In UV trên mica tại in UV Hoà Bình" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-[20px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trên mica tại in UV Hoà Bình
               </div>
               <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
@@ -138,7 +144,7 @@ const Pro01LaserMicaPage: React.FC = () => {
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp3.jpg" alt="In UV trực tiếp lên kim loại" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-[20px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trực tiếp lên kim loại : Sắt, Inox, Nhôm, thép,
               </div>
               <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">

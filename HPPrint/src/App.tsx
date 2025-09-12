@@ -5,6 +5,7 @@ import NewsPage from "./page/news/NewsPage";
 import ContactPage from "./page/contact/ContactPage";
 import Pro01LaserMicaPage from "./page/productLaserMica/pro01LaserMicaPage";
 import Pro02LaserMicaPage from "./page/productLaserMica/pro02LaserMicaPage";
+import Pro03LaserMicaPage from "./page/productLaserMica/pro03LaserMicaPage";
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
           <Route path="/contact" element={<ContactPage />} />
           <Route path="/productLaserMica" element={<Pro01LaserMicaPage />} />
           <Route path="/productLaserMica/pro02" element={<Pro02LaserMicaPage />} />
+          <Route path="/productLaserMica/pro03" element={<Pro03LaserMicaPage />} />
         </Routes>
       </div>
     </Router>
