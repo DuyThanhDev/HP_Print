@@ -10,6 +10,7 @@ import Pro04LaserMicaPage from "./page/productLaserMica/pro04LaserMicaPage";
 import ProInCuonPage from "./page/productCuon/proInCuonPage";
 import ProInMatPhangPage from "./page/productMatPhang/proInMatPhangPage";
 import ProductsPage from "./page/products/ProductsPage";
+import HomePage from "./page/home/HomePage";
 
 function App() {
   return (
@@ -27,7 +28,7 @@ function App() {
           <Route path="/productCuon" element={<ProInCuonPage />} />
           <Route path="/productMatPhang" element={<ProInMatPhangPage />} />
           <Route path="/products" element={<ProductsPage />} />
-
+          <Route path="/" element={<HomePage />} />
         </Routes>
       </div>
     </Router>
