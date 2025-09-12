@@ -61,7 +61,7 @@ const Pro03LaserMicaPage: React.FC = () => {
                 <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-red-600 underline font-bold">
                   BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KÍNH TẠI ĐÂY 
                 </a>
-                <a className="ml-2">Hoặc link : </a><a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html</a>
+                <a className="ml-2">Hoặc link : </a><a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-mica-nhua-pvc.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-mica-nhua-pvc.html</a>
               </div>
 
               <div className="pt-4 pb-4 text-[18px] text-blue-800">
@@ -122,7 +122,7 @@ const Pro03LaserMicaPage: React.FC = () => {
                 <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-red-600 underline font-bold">
                   BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KÍNH TẠI ĐÂY 
                 </a>
-                <a className="ml-2">Hoặc link : </a><a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html</a>
+                <a className="ml-2">Hoặc link : </a><a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-mica-nhua-pvc.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-mica-nhua-pvc.html</a>
               </div>
 
         {/* BẢN TIN LIÊN QUAN */}

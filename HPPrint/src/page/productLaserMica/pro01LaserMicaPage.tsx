@@ -15,6 +15,10 @@ const Pro01LaserMicaPage: React.FC = () => {
     navigate("/productLaserMica/pro03");
     window.scrollTo({ top: 0, behavior: "smooth" });
   };
+  const handleClickTin3 = () => {
+    navigate("/productLaserMica/pro04");
+    window.scrollTo({ top: 0, behavior: "smooth" });
+  };
   return (
     <div className="min-h-screen flex flex-col bg-white">
       <Header />
@@ -140,6 +144,9 @@ const Pro01LaserMicaPage: React.FC = () => {
               <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
             </div>
             {/* Tin 3 */}
+            <div className="flex-1 bg-white rounded-lg flex flex-col group cursor-pointer"
+              onClick={handleClickTin3}
+            >
             <div className="flex-1 bg-white rounded-lg flex flex-col group">
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp3.jpg" alt="In UV trực tiếp lên kim loại" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
@@ -152,6 +159,7 @@ const Pro01LaserMicaPage: React.FC = () => {
                 24 Mar 2023
               </div>
               <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
+            </div>
             </div>
           </div>
         </section>
