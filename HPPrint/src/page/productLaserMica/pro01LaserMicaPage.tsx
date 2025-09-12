@@ -104,7 +104,7 @@ const Pro01LaserMicaPage: React.FC = () => {
           <div className="flex flex-col md:flex-row gap-6">
             {/* Tin 1 */}
             <div
-              className="flex-1 bg-white rounded-lg p-4 flex flex-col group cursor-pointer"
+              className="flex-1 bg-white rounded-lg flex flex-col group cursor-pointer"
               onClick={handleClickTin1}
             >
               <div className="overflow-hidden rounded-lg mb-3">
@@ -120,7 +120,7 @@ const Pro01LaserMicaPage: React.FC = () => {
               <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
             </div>
             {/* Tin 2 */}
-            <div className="flex-1 bg-white rounded-lg p-4 flex flex-col group">
+            <div className="flex-1 bg-white rounded-lg flex flex-col group">
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp2.jpg" alt="In UV trên mica tại in UV Hoà Bình" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
@@ -134,7 +134,7 @@ const Pro01LaserMicaPage: React.FC = () => {
               <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
             </div>
             {/* Tin 3 */}
-            <div className="flex-1 bg-white rounded-lg p-4 flex flex-col group">
+            <div className="flex-1 bg-white rounded-lg flex flex-col group">
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp3.jpg" alt="In UV trực tiếp lên kim loại" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>

@@ -17,78 +17,110 @@ const Pro02LaserMicaPage: React.FC = () => {
         {/* Main content */}
         <main className="flex-1">
           <div className="box-single-pages">
-            <div className="single-pages-content space-y-6 text-[17px] text-gray-800">
-              <h1 className="text-2xl md:text-3xl font-bold text-justify mb-2">Những lý do nên chọn cắt mica với công nghệ LASER CO2 ở IN HOÀ BÌNH??</h1>
-              <div className="flex items-center text-gray-500 text-base mb-4">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
-                Thứ năm - 13/08/2020 22:12
-              </div>
-              
-              <p className="text-[22px] font-bold text-justify">
-                BẠN ĐANG CẦN " CẮT " " KHẮC " LASER - Hãy <span className="text-red-600 text-[20px] font-bold">liên hệ ngay : 0837.622.922</span> <span className="font-normal">Để được tư vấn và báo giá tốt nhất.</span>
+            <h1 className="text-2xl md:text-3xl font-bold text-gray-800 mb-2">
+              IN UV TRÊN KÍNH CƯỜNG LỰC. NHỮNG LÝ DO NÊN CHỌN IN UV TRÊN KÍNH CƯỜNG LỰC.
+            </h1>
+            <div className="flex items-center text-gray-500 text-base mb-4 meta-list">
+              <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
+              </svg>
+              Thứ tư - 17/04/2019 13:47
+            </div>
+            <div className="single-pages-content text-[17px] text-gray-800 space-y-4">
+              <p>
+                <strong>
+                  Những lý do nên chọn in trực tiếp lên kính?{" "}
+                  <span className="text-red-600 italic underline">in uv trên kính</span> là như thế nào?
+                </strong>
               </p>
-              <p className="text-[22px] font-bold text-justify">NHỮNG LÝ DO NÊN CHỌN MÁY LASER HOÀ BÌNH :</p>
-              <ul className="space-y-4">
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">1.</span> Giá cắt và khắc rẻ - Gọi ngay để được báo giá chính xác theo nhu cầu.</li>
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">2.</span> Thi công nhanh, cắt những đơn lẻ - Giải quyết <span className="text-blue-600 font-bold">nhanh 2h</span> cho khách hàng cần gấp.</li>
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">3.</span> <span className="text-blue-600 font-bold">Khổ máy lớn : 1,3 mét x 2,5 mét</span> - Đáp ứng được xử lý vật tư lớn.</li>
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">4.</span> Sử dụng tia cắt Laser CO - <span className="text-blue-600 font-bold">Cắt được vật tư dày 20mm</span> nhưng vẫn giữ được độ láng mịn của đường cắt.</li>
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">5.</span> Có <span className="text-blue-600 font-bold">đầu Camera</span> - đảm bảo được <span className="text-blue-600 font-bold">độ chính xác dưới &lt; 0.01mm.</span></li>
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">6.</span> Tốc độ <span className="text-blue-600 font-bold">cắt nhanh</span> : 600mm/s và tốc độ <span className="text-blue-600 font-bold">khắc nhanh</span> : 1000mm/s - Đáp ứng được những đơn hàng lớn cần tốc độ.</li>
-                <li className="text-[20px] text-justify"><span className="text-yellow-600 font-bold">7.</span> Có <span className="text-blue-600 font-bold">máy in UV phẳng</span> - Xử lý được trọng vẹn 1 sản phẩm cùng 1 nơi, đỡ vận chuyển.</li>
+              <p>
+                <span className="text-red-600 underline font-bold">In UV&nbsp;Hoà Bình</span> sử dụng công nghệ in UV, in trực tiếp file lên bề mặt kính theo yêu cầu. Sẽ tạo được độ sắc nét cho sản phẩm và màu sắc tuyệt đối.
+              </p>
+              <p>Những nhược điểm của các cách làm trước đây như :</p>
+              <ul>
+                <li>- Dán decal lên bề mặt kính sẽ dễ không tạo được sự chân thật cho sản phẩm. Mất đi sự sang trọng.</li>
+                <li>- Vẽ trực tiếp lên bề mặt kính thì sản phẩm được tạo ra không có sự sắc nét. Và đặc biệt là dễ tróc.</li>
               </ul>
-              <p className="text-[22px] font-bold">IN UV HOÀ BÌNH - CẮT LASER HOÀ BÌNH</p>
-              <p className="text-[20px] text-justify">Với máy cắt laser khổ lớn, đội ngũ tư vấn nhiệt tình. Sẵn sàng hỗ trợ xử lý file và tư vấn cho khách hàng để có sản phẩm hoàn thiện nhất. Kết hợp với công nghệ in UV, sẽ thực hiện được nhiều công đoạn cùng 1 nơi cho quý khách hàng.</p>
-              <p className="text-[20px]">Hãy <span className="text-red-600 font-bold">liên hệ ngay : 0837.622.922</span> Để được tư vấn và báo giá tốt nhất.</p>
+              <p>
+                Giờ đây khi công nghệ in UV ra đời, những tấm kính cửa sẽ được trang trí lộng lẫy hơn, những tấm kính chắn phòng tắm sẽ được in hoạ tiết 3D sống động. Những vách kệ bếp không còn đơn điệu 1 màu, những bức tường được trang trí sang trọng và bắt mắt.&nbsp;
+              </p>
+              <p>
+                Với công nghệ in UV này, thì sản phẩm có được những ưu điểm rất lớn nên được rất nhiều khách hàng lựa chọn.
+              </p>
+              <ul className="ml-2">
+                <li>- In trực tiếp file hình lên bề mặt kính tạo độ nét tuyệt đối và chất lượng màu 99% tương ứng.</li>
+                <li>- Sử dụng mực in UV và công nghệ in khép kín có thể tạo hiệu ứng 3D cho hình ảnh và độ bền mực lên đến 5 năm.</li>
+                <li>- Dễ dàng thi công và thực hiện sản phẩm trong thời gian ngắn.</li>
+                <li>- Cho hình ảnh sống động chân thật.</li>
+                <li>- Tạo ra những bức tranh sang trọng trang trí trong ngôi nhà bạn.</li>
+              </ul>
+              <div>
+                <span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
+                <div className="mt-2 text-[18px]">
+                  W : <a href="https://inuvhoabinh.com/" className="text-blue-500 underline">https://inuvhoabinh.com/</a><br />
+                  T : 0901.622.922 - 0977.973.064<br />
+                  E : inuvhoabinh@gmail.com<br />
+                  D : 122 Lê Niệm, Phường Phú Thạnh, Quận Tân Phú, TP. Hồ Chí Minh
+                </div>
+              </div>
               <div className="my-4">
-              <img src="/assets/cat01/cat1.jpg" className="rounded-lg w-full object-cover" />
+                <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-red-600 underline font-bold">
+                  &gt;&gt;BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KÍNH&nbsp;TẠI ĐÂY &lt;&lt;
+                </a>
+                <span className="ml-2">Hoặc link : <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html</a></span>
               </div>
-              <p className="text-[22px] font-bold">NHỮNG SẢN PHẨM MÀ MÁY LASER - XƯỞNG HOÀ BÌNH THỰC HIỆN ĐƯỢC :</p>
-              <ul className="text-[20px]">
-                <li className="mb-3">- Cắt Mica : độ dày từ 1,5mm - 20mm. Khổ lớn nhất 1,2 mét x2,4 mét.</li>
-                <li className="mb-3">- Cắt chữ Mica và in theo màu file đảm bảo chuẩn 100%.</li>
-                <li className="mb-3">- Cắt Mica mọi hình dáng theo file có sẵn.</li>
-                <li className="mb-3">- Khắc hình, chữ lên gỗ.</li>
-                <li className="mb-3">- Cắt vải theo khổ máy.</li>
-                <li className="mb-3">- Khắc chữ và hình lên da.</li>
-                <li className="mb-3">- Cắt da theo khổ.</li>
-              </ul>
-              <p className="text-[20px]">Hãy <span className="text-red-600 font-bold">liên hệ ngay : 0837.622.922</span> Để được tư vấn và báo giá tốt nhất và nhanh nhất.</p>
-              <p className="text-[20px] mt-6">Một số hình ảnh tham khảo :</p>
-              <p className="text-[20px]">CHỮ NỔI MICA MÀU - BẢNG TÊN CÔNG TY</p>
-                            <div className="my-4">
-              <img src="/assets/cat01/cat2.jpg" className="rounded-lg w-full object-cover" />
+              <div className="text-blue-700">
+                <em className="text-blue-700 font-bold underline">In uv trên kính</em> để vách ốp bếp trang trí
               </div>
-                            <div className="my-4">
-              <img src="/assets/cat01/cat3.jpg" className="rounded-lg w-full object-cover" />
+              <div className="my-4">
+              <img src="/assets/cat02/cat01.jpg" className="rounded-lg w-full object-cover" />
               </div>
-                            <div className="my-4">
-              <img src="/assets/cat01/cat4.jpg" className="rounded-lg w-full object-cover" />
+              <div className="my-4">
+              <img src="/assets/cat02/cat02.jpg" className="rounded-lg w-full object-cover" />
               </div>
-              <p className="text-[20px]">KHẮC MICA THÀNH PHẨM - QUÀ LƯU NIỆM</p>
-                            <div className="my-4">
-              <img src="/assets/cat01/cat5.jpg" className="rounded-lg w-full object-cover" />
+              <div className="my-4">
+              <img src="/assets/cat02/cat03.jpg" className="rounded-lg w-full object-cover" />
               </div>
-                            <div className="my-4">
-              <img src="/assets/cat01/cat6.jpg" className="rounded-lg w-full object-cover" />
+              <div className="text-blue-700 pt-2 pb-2">
+                <em className="text-blue-700 font-bold underline">In uv trên kính</em> để thớt cắt thức ăn
               </div>
-              <p className="text-[20px]">CẮT VẬT PHẨM MICA THEO HÌNH DẠNG CÓ SẴN</p>
-                            <div className="my-4">
-              <img src="/assets/cat01/cat7.jpg" className="rounded-lg w-full object-cover" />
+              <div className="my-4">
+              <img src="/assets/cat02/cat04.jpg" className="rounded-lg w-full object-cover" />
               </div>
-              <p className="text-[20px]">Hãy <span className="text-red-600 text-[20px]">liên hệ ngay : 0837.622.922</span> Để được tư vấn và báo giá tốt nhất và nhanh nhất.</p>
-              <div className="text-[22px] text-red-600 font-sans mt-6">IN UV HOÀ BÌNH - IN ẤN HOÀ BÌNH</div>
-              <div className="text-[18px] text-gray-800 font-sans mt-2">
-                W : <a href="https://inuvhoabinh.com/" className="text-blue-400 underline">https://inuvhoabinh.com/</a> - <a href="https://inanhoabinh.com/" className="text-blue-400 underline">https://inanhoabinh.com/</a><br />
-                T : 0901.622.922 - 0977.973.064<br />
-                E : inuvhoabinh@gmail.com<br />
-                D : 122 Lê Niệm, Phường Phú Thạnh, Quận Tân Phú, TP. Hồ Chí Minh<br />
-                <span className="block mt-2">Xem thêm nhiều video tại : <a href="https://www.youtube.com/channel/UCRUf4QXwfEMy99EQqTr62nQ" className="text-blue-700 underline" target="_blank" rel="noopener noreferrer">https://www.youtube.com/channel/UCRUf4QXwfEMy99EQqTr62nQ</a></span>
+              <div className="text-blue-700 pt-2 pb-2">
+                <em className="text-blue-700 font-bold underline">In uv trên kính</em> để làm mặt bàn tròn trang trí
+              </div>
+              <div className="my-4">
+              <img src="/assets/cat02/cat05.jpg" className="rounded-lg w-full object-cover" />
+              </div>
+              <div className="text-blue-700 pt-2 pb-2">
+                <em className="text-blue-700 font-bold underline">In uv trên kính</em> để làm tranh ảnh trang trí nhà cửa
+              </div>
+              <div className="my-4">
+              <img src="/assets/cat02/cat06.jpg" className="rounded-lg w-full object-cover" />
+              </div>
+              <div className="my-4">
+              <img src="/assets/cat02/cat07.jpg" className="rounded-lg w-full object-cover" />
+              </div>
+              <div>
+                <span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
+                <div className="mt-2 text-[16px]">
+                  W : <a href="https://inuvhoabinh.com/" className="text-blue-500 underline">https://inuvhoabinh.com/</a><br />
+                  T : 0901.622.922 - 0977.973.064<br />
+                  E : inuvhoabinh@gmail.com<br />
+                  D : 122 Lê Niệm, Phường Phú Thạnh, Quận Tân Phú, TP. Hồ Chí Minh
+                </div>
+              </div>
+              <div className="my-4">
+                <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-red-600 underline font-bold">
+                  &gt;&gt;BẤM XEM THÊM CÁC SẢN PHẨM IN UV TRÊN KÍNH&nbsp;TẠI ĐÂY &lt;&lt;
+                </a>
+                <span className="ml-2">Hoặc link : <a href="https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html" className="text-blue-700 underline">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-kinh.html</a></span>
               </div>
             </div>
           </div>
 
-        {/* BẢN TIN LIÊN QUAN */}
+          {/* BẢN TIN LIÊN QUAN */}
         <section className="max-w-7xl mx-auto w-full mt-8">
           <h3 className="text-xl md:text-1xl font-bold text-gray-600 mb-2">BẢN TIN LIÊN QUAN</h3>
           <div className="w-full h-1 flex mb-4">
@@ -96,43 +128,48 @@ const Pro02LaserMicaPage: React.FC = () => {
             <div className="flex-1 h-0.5 bg-gray-200 rounded-r-full"></div>
           </div>
           <div className="flex flex-col md:flex-row gap-6">
-            {/* Tin 1 */}
-            <div className="flex-1 bg-white rounded-lg p-4 flex flex-col group">
-              <div className="overflow-hidden rounded-lg mb-3">
-                <img src="/assets/cat01/catsp1.jpg" alt="In UV trên kính cường lực" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
-              </div>
-              <div className="font-bold text-lg mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
-                In UV trên kính cường lực.<br/>Những lý do nên chọn in UV trên kính cường lực.
-              </div>
-              <div className="flex items-center text-gray-500 text-base mb-2">
-                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
-                17 Apr 2019
-              </div>
-              <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
-            </div>
             {/* Tin 2 */}
-            <div className="flex-1 bg-white rounded-lg p-4 flex flex-col group">
+            <div className="flex-1 bg-white rounded-lg flex flex-col group">
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp2.jpg" alt="In UV trên mica tại in UV Hoà Bình" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-lg mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trên mica tại in UV Hoà Bình
               </div>
-              <div className="flex items-center text-gray-500 text-base mb-2">
+              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                 21 Apr 2019
               </div>
               <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
             </div>
+
+            {/* Tin 0 */}
+            <div
+              className="flex-1 bg-white rounded-lg flex flex-col group cursor-pointer"
+              // onClick={handleClickTin1}
+            >
+              <div className="overflow-hidden rounded-lg mb-3">
+                <img src="/assets/cat01/catsp0.jpg" alt="In UV trên kính cường lực" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
+              </div>
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+                Những lý do nên chọn cắt mica với công nghệ LASER CO2 ở IN HOÀ BÌNH??
+              </div>
+              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
+                <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
+                17 Apr 2019
+              </div>
+              <button className="border border-gray-400 rounded-full px-6 py-1 text-base text-gray-600 hover:text-sky-400 hover:border-sky-300 transition-colors duration-200 w-max mt-2">Xem thêm</button>
+            </div>
+            
             {/* Tin 3 */}
-            <div className="flex-1 bg-white rounded-lg p-4 flex flex-col group">
+            <div className="flex-1 bg-white rounded-lg flex flex-col group">
               <div className="overflow-hidden rounded-lg mb-3">
                 <img src="/assets/cat01/catsp3.jpg" alt="In UV trực tiếp lên kim loại" className="w-full h-48 object-cover transition-transform duration-300 ease-in-out hover:scale-110" />
               </div>
-              <div className="font-bold text-lg mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
+              <div className="font-bold text-[22px] mb-1 text-gray-500 group-hover:text-sky-400 transition-colors duration-200">
                 In UV trực tiếp lên kim loại : Sắt, Inox, Nhôm, thép,
               </div>
-              <div className="flex items-center text-gray-500 text-base mb-2">
+              <div className="flex items-center text-gray-500 text-base mb-2 text-[18px]">
                 <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5 mr-1 inline-block" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
                 24 Mar 2023
               </div>
@@ -140,12 +177,10 @@ const Pro02LaserMicaPage: React.FC = () => {
             </div>
           </div>
         </section>
-
-      </main>
+        </main>
+      </div>
+      <Footer />
     </div>
-    <Footer />
-  </div>
   );
 };
-
 export default Pro02LaserMicaPage;
