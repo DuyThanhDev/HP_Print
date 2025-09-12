@@ -7,52 +7,52 @@ import Footer from "../../components/Footer";
 
 const productsHomeList = [
   {
-    title: "CHẤT LIỆU MICA, NHỰA PVC",
-    img: "/assets/pro/pro01.jpg", // Đường dẫn ảnh mẫu
+    title: "IN UV TRÊN INOX LÀM TEM, NHÃN INOX",
+    img: "/assets/home/home01.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CHẤT LIỆU INOX, ALU, NHÔM, SẮT, KIM LOẠI",
-    img: "/assets/pro/pro02.jpg", // Đường dẫn ảnh mẫu
+    title: "IN UV TRÊN GỖ LÀ TRANH TRANG TRÍ TRONG CÁC TRƯỜNG MẪU GIÁO",
+    img: "/assets/home/home02.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CHẤT LIỆU FOAM, FORMEX, PIMA",
-    img: "/assets/pro/pro03.jpg", // Đường dẫn ảnh mẫu
+    title: "IN BẢNG TÊN CÔNG TY TRÊN INOX BÓNG CHO NGÂN HÀNG AGRIBANK",
+    img: "/assets/home/home03.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CHẤT LIỆU KÍNH",
-    img: "/assets/pro/pro04.jpg", // Đường dẫn ảnh mẫu
+    title: "IN STICKER GRABFOOD CHO CÁC NHÀ HÀNG VÀ QUÁN ĂN",
+    img: "/assets/home/home04.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CHẤT LIỆU GỖ",
-    img: "/assets/pro/pro05.jpg", // Đường dẫn ảnh mẫu
+    title: "IN UV LÊN MICA LÀM HỘP ĐÈN CHO CÁC HÃNG BEER LỚN",
+    img: "/assets/home/home05.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CHẤT LIỆU DA, SIMILI",
-    img: "/assets/pro/pro06.jpg", // Đường dẫn ảnh mẫu
+    title: "IN BẢNG MICA ĐỂ BÀN CHO NGÂN HÀNG VIETCOMBANK",
+    img: "/assets/home/home06.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CẮT LASER MICA",
-    img: "/assets/pro/pro07.jpg", // Đường dẫn ảnh mẫu
+    title: "IN BẢNG MICA CHO IN HÀNG NHANH",
+    img: "/assets/home/home07.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "CHẤT LIỆU CANVAS, RÈM NHỰA",
-    img: "/assets/pro/pro08.jpg", // Đường dẫn ảnh mẫu
+    title: "IN BẢNG LOGO CHO GRAB MOCA",
+    img: "/assets/home/home08.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "In UV PHẲNG",
-    img: "/assets/pro/pro09.jpg", // Đường dẫn ảnh mẫu
+    title: "IN UV TRÊN KÍNH CƯỜNG LỰC LÀM KÍNH ỐP BẾP TRANG TRÍ",
+    img: "/assets/home/home09.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "In UV CUỘN",
-    img: "/assets/pro/pro10.jpg", // Đường dẫn ảnh mẫu
+    title: "UV TRÊN INOX LÀM KỶ NIỆM CHƯƠNG",
+    img: "/assets/home/home10.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "In UV PHẲNG",
-    img: "/assets/pro/pro09.jpg", // Đường dẫn ảnh mẫu
+    title: "IN BẢNG TÊN CÔNG TY TRÊN INOX VÀNG GƯƠNG",
+    img: "/assets/home/home11.jpg", // Đường dẫn ảnh mẫu
   },
   {
-    title: "In UV CUỘN",
-    img: "/assets/pro/pro10.jpg", // Đường dẫn ảnh mẫu
+    title: "THIỆP CƯỚI MICA TRONG SUỐT",
+    img: "/assets/home/home12.jpg", // Đường dẫn ảnh mẫu
   },
 ];
 
