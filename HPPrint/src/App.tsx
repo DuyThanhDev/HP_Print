@@ -8,6 +8,7 @@ import Pro02LaserMicaPage from "./page/productLaserMica/pro02LaserMicaPage";
 import Pro03LaserMicaPage from "./page/productLaserMica/pro03LaserMicaPage";
 import Pro04LaserMicaPage from "./page/productLaserMica/pro04LaserMicaPage";
 import ProInCuonPage from "./page/productCuon/proInCuonPage";
+import ProInMatPhangPage from "./page/productMatPhang/proInMatPhangPage";
 
 function App() {
   return (
@@ -23,6 +24,7 @@ function App() {
           <Route path="/productLaserMica/pro03" element={<Pro03LaserMicaPage />} />
           <Route path="/productLaserMica/pro04" element={<Pro04LaserMicaPage />} />
           <Route path="/productCuon" element={<ProInCuonPage />} />
+          <Route path="/productMatPhang" element={<ProInMatPhangPage />} />
 
         </Routes>
       </div>
