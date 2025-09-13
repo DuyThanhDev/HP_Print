@@ -9,7 +9,7 @@ const items = [
   { label: "IN UV TRÊN FORMEX, PIMA, FOAM", link: "/proUVFPF" },
   { label: "IN UV TRÊN GỖ", link: "/proUVGo" },
   { label: "CẮT LASER MICA", link: "/productLaserMica" },
-  { label: "IN UV TRÊN DA, SIMILI", link: "/productMatPhang/da-simili" },
+  { label: "IN UV TRÊN DA, SIMILI", link: "/proUVDa" },
   { label: "IN UV CUỘN LÀ GÌ", link: "/proUVCuon" },
   { label: "IN UV TEM DÁN DTF", link: "/proUVDTF" },
 ];
