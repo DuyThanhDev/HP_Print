@@ -12,6 +12,7 @@ import ProInMatPhangPage from "./page/productMatPhang/proInMatPhangPage";
 import ProductsPage from "./page/products/ProductsPage";
 import HomePage from "./page/home/HomePage";
 import ProUVPhangPage from "./page/proOfSidebar/proUVPhangPage";
+import ProUVCuonPage from "./page/proOfSidebar/proUVCuonPage";
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
           <Route path="/products" element={<ProductsPage />} />
           <Route path="/" element={<HomePage />} />
           <Route path="/proUVPhang" element={<ProUVPhangPage />} />
+          <Route path="/proUVCuon" element={<ProUVCuonPage />} />
         </Routes>
       </div>
     </Router>
