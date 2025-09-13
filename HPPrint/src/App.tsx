@@ -11,6 +11,7 @@ import ProInCuonPage from "./page/productCuon/proInCuonPage";
 import ProInMatPhangPage from "./page/productMatPhang/proInMatPhangPage";
 import ProductsPage from "./page/products/ProductsPage";
 import HomePage from "./page/home/HomePage";
+import ProUVPhangPage from "./page/proOfSidebar/proUVPhangPage";
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
           <Route path="/productMatPhang" element={<ProInMatPhangPage />} />
           <Route path="/products" element={<ProductsPage />} />
           <Route path="/" element={<HomePage />} />
+          <Route path="/proUVPhang" element={<ProUVPhangPage />} />
         </Routes>
       </div>
     </Router>

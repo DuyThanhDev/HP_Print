@@ -1,6 +1,6 @@
 
 const items = [
-  { label: "IN UV PHẲNG LÀ GÌ?", link: "/productMatPhang/intro" },
+  { label: "IN UV PHẲNG LÀ GÌ?", link: "/proUVPhang" },
   { label: "IN UV MICA", link: "/productLaserMica/pro03" },
   { label: "IN UV TRÊN KÍNH", link: "/productLaserMica/pro02" },
   { label: "IN UV INOX, SẮT, NHÔM, ALUMIUM", link: "/productLaserMica/pro04" },
