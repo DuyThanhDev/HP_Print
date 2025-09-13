@@ -10,7 +10,7 @@ const items = [
   { label: "CẮT LASER MICA", link: "/productLaserMica" },
   { label: "IN UV TRÊN DA, SIMILI", link: "/productMatPhang/da-simili" },
   { label: "IN UV CUỘN LÀ GÌ", link: "/proUVCuon" },
-  { label: "IN UV TEM DÁN DTF", link: "/productCuon/dtf" },
+  { label: "IN UV TEM DÁN DTF", link: "/proUVDTF" },
 ];
 
 
