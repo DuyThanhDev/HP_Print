@@ -26,18 +26,18 @@ const ProUVNPAPage: React.FC = () => {
 							<span className="inline-flex items-center"><i className="far fa-clock mr-1" />Thứ sáu - 24/03/2023 15:18</span>
 						</div>
 						<div className="prose max-w-none text-base leading-relaxed single-pages-content">
-							<p className="font-bold text-xl mb-4 ml-1">Nhựa PVC, nhựa ABS, tấm nhựa PVC Pima giả đá</p>
+							<p className="font-bold text-[22px] mb-4 ml-1">Nhựa PVC, nhựa ABS, tấm nhựa PVC Pima giả đá</p>
 							<p className="mb-4 text-[18px]">Trong cuộc sống thường ngày, nhựa được sử dụng rất nhiều vào tất cả các vật dụng của chúng ta. Đặt tính của nhựa là bền, dẻo, khó hư hỏng và rất dễ tạo hình theo mong muốn.</p>
 							<p className="mb-4 text-[18px]">Có vài loại nhựa được sử dụng nhiều trong quảng cáo và trang trí nội thất đó là : Tấm nhựa PVC rạng đông màu trắng, tấm nhựa ABS (loại mới thân thiện với môi trường vì dễ tái chế) và tấm nhựa giả đá Pima PVC.</p>
-							<p className="font-bold text-xl mb-4">In UV trên nhựa là như thế nào?</p>
+							<p className="font-bold text-[22px] mb-4">In UV trên nhựa là như thế nào?</p>
 							<p className="mb-4 text-[18px]">In UV trên nhựa là hình thức công nghệ in mới bằng tia UV sấy mực khô ngay lập tức và mực UV chuyên biệt để in trên các vật tư là nhựa. Với mực UV chuyên biệt sẽ tạo ra được các màu sắc đa dạng theo từng hình ảnh cần in chuẩn lên đến 99% và kết hợp với việc tia UV sấy mực khô ngay có thể in cùng lúc nhiều lớp mực trắng và màu khác nhau trên cùng một điểm, nên dù vật tư có khác màu thì hình ảnh in ra vẫn đúng như thiết kế ban đầu, đáp ứng rất tốt cho việc nhận diện thương hiệu của các tập đoàn lớn có yêu cầu khắc khe về độ sắc nét và màu sắc.</p>
 							<p className="mb-4 text-[18px]">Với in ấn Hoà Bình, đã có kinh nghiệm hơn 5 năm trong lĩnh vực in ấn và in UV sẽ đảm bảo các sản phẩm chất lượng nhất cho quý khách hàng và sẵn sàng làm những sản phẩm có yêu cầu khó và khắc khe của thị trường. Chỉ với <span className="text-red-600">giá in UV 250.000 VNĐ/m2</span> với 1 lớp mực in, <span className="text-red-600">hãy liên hệ ngay : 0901.622.922 Mr Thoan</span> để được báo giá chi tiết và tư vấn chính xác nhất.</p>
-							<p className="font-bold text-lg mb-4">Các sản phẩm thường được ứng dụng in UV trên nhựa như :</p>
-							<ul className="mb-4 list-disc pl-6">
-								<li>In UV trên thẻ nhựa : in thẻ nhân viên, in thẻ thông cá nhân, in thẻ phòng khách sạn,…</li>
-								<li>In UV trên tấm nhựa PVC trắng Rạng Đông : In bảng tên sản phẩm, in tem nhãn sản phẩm, in dummy quảng cáo sản phẩm ngoài trời, in catalog sản phẩm, in menu sản phẩm,..</li>
-								<li>In UV trên nhựa ABS : In bảng tên sản phẩm,</li>
-								<li>In tấm nhựa PVC Pima giả đá</li>
+							<p className="font-bold text-[22px] mb-4">Các sản phẩm thường được ứng dụng in UV trên nhựa như :</p>
+							<ul className="mb-4 list-disc pl-10">
+								<li className="text-[18px]">In UV trên thẻ nhựa : in thẻ nhân viên, in thẻ thông cá nhân, in thẻ phòng khách sạn,…</li>
+								<li className="text-[18px]">In UV trên tấm nhựa PVC trắng Rạng Đông : In bảng tên sản phẩm, in tem nhãn sản phẩm, in dummy quảng cáo sản phẩm ngoài trời, in catalog sản phẩm, in menu sản phẩm,..</li>
+								<li className="text-[18px]">In UV trên nhựa ABS : In bảng tên sản phẩm,</li>
+								<li className="text-[18px]">In tấm nhựa PVC Pima giả đá</li>
 							</ul>
 							<div className="pt-2 pb-2">
 								<span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
@@ -54,24 +54,25 @@ const ProUVNPAPage: React.FC = () => {
 									<span> Hoặc link : <span className="text-blue-600">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-mica-nhua-pvc.html</span></span>
 								</a>
 							</div>
-							<p className="italic pt-4 pb-4 font-bold text-blue-700"><u>In uv trên nhựa PVC trắng</u> để nhãn treo</p>
+							<p className="italic pt-4 pb-4 text-blue-700"><u className="font-bold">In uv trên nhựa PVC trắng</u> để nhãn treo</p>
 							<div className="my-4">
-								<img src="/image/z4208110421896_a545d307a1e7f7a9a14cdb10cd04d836.jpg" alt="In uv trên nhựa PVC trắng" className="rounded-lg w-full object-cover" />
+								<img src="/assets/sidebar/uvnpa/npa01.jpg" alt="In uv trên nhựa PVC trắng" className="rounded-lg w-full object-cover" />
 							</div>
-							<p className="italic pt-4 pb-4 font-bold text-blue-700"><u>In uv trên thẻ nhựa có từ</u> để làm thẻ thang máy, thẻ phòng, thẻ tên</p>
+							<p className="italic pt-4 pb-4 text-blue-700"><u className=" font-bold">In uv trên thẻ nhựa có từ</u> để làm thẻ thang máy, thẻ phòng, thẻ tên</p>
 							<div className="my-4">
-								<img src="/image/747e56530394dfca8685.jpg" alt="In uv trên thẻ nhựa có từ" className="rounded-lg w-full object-cover" />
-							</div>
-							<div className="my-4">
-								<img src="/image/796259c440029c5cc513.jpg" alt="In uv trên thẻ nhựa" className="rounded-lg w-full object-cover" />
-							</div>
-							<p className="italic pt-4 pb-4 font-bold text-blue-700"><u>In uv trên nhựa ABS đen nhập khẩu</u> để làm bảng tên quầy sản phẩm cho bách hoá xanh</p>
-							<div className="my-4">
-								<img src="/image/z4208125613344_6af0fbc0df896eb170f61094a8cb20fe.jpg" alt="In uv trên nhựa ABS đen nhập khẩu" className="rounded-lg w-full object-cover" />
+								<img src="/assets/sidebar/uvnpa/npa02.jpg" alt="In uv trên thẻ nhựa có từ" className="rounded-lg w-full object-cover" />
 							</div>
 							<div className="my-4">
-								<img src="/image/z4208125613717_b2396072c2bb0a26d87ae1682c38dab7.jpg" alt="In uv trên nhựa ABS đen nhập khẩu 2" className="rounded-lg w-full object-cover" />
+								<img src="/assets/sidebar/uvnpa/npa03.jpg" alt="In uv trên thẻ nhựa" className="rounded-lg w-full object-cover" />
 							</div>
+							<p className="italic pt-4 pb-4 text-blue-700"><u className="font-bold">In uv trên nhựa ABS đen nhập khẩu</u> để làm bảng tên quầy sản phẩm cho bách hoá xanh</p>
+							<div className="my-4">
+								<img src="/assets/sidebar/uvnpa/npa04.jpg" alt="In uv trên nhựa ABS đen nhập khẩu" className="rounded-lg w-full object-cover" />
+							</div>
+							<div className="my-4">
+								<img src="/assets/sidebar/uvnpa/npa05.jpg" alt="In uv trên nhựa ABS đen nhập khẩu 2" className="rounded-lg w-full object-cover" />
+							</div>
+                            
 							<div className="pt-2 pb-2">
 								<span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
 								<div className="mt-2 text-[16px]">
