@@ -16,6 +16,7 @@ import ProUVCuonPage from "./page/proOfSidebar/proUVCuonPage";
 import ProUVDTFPage from "./page/proOfSidebar/proUVDTFPage";
 import ProUVNPAPage from "./page/proOfSidebar/proUVNPAPage";
 import ProUVFPFPage from "./page/proOfSidebar/proUVFPF";
+import ProUVGoPage from "./page/proOfSidebar/proUVGoPage";
 
 function App() {
   return (
@@ -39,6 +40,7 @@ function App() {
           <Route path="/proUVDTF" element={<ProUVDTFPage />} />
           <Route path="/proUVNPA" element={<ProUVNPAPage />} />
           <Route path="/proUVFPF" element={<ProUVFPFPage />} />
+          <Route path="/proUVGo" element={<ProUVGoPage />} />
         </Routes>
       </div>
     </Router>

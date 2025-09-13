@@ -7,7 +7,7 @@ const items = [
   { label: "IN UV INOX, SẮT, NHÔM, ALUMIUM", link: "/productLaserMica/pro04" },
   { label: "IN UV TRÊN NHỰA PVC,ABS", link: "/proUVNPA" },
   { label: "IN UV TRÊN FORMEX, PIMA, FOAM", link: "/proUVFPF" },
-  { label: "IN UV TRÊN GỖ", link: "/productMatPhang/go" },
+  { label: "IN UV TRÊN GỖ", link: "/proUVGo" },
   { label: "CẮT LASER MICA", link: "/productLaserMica" },
   { label: "IN UV TRÊN DA, SIMILI", link: "/productMatPhang/da-simili" },
   { label: "IN UV CUỘN LÀ GÌ", link: "/proUVCuon" },
