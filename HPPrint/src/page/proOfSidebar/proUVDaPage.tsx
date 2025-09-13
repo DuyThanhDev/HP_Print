@@ -25,17 +25,17 @@ const ProUVDaPage: React.FC = () => {
               <span className="inline-flex items-center"><i className="far fa-clock mr-1" />Chủ nhật - 26/03/2023 20:33</span>
             </div>
             <div className="prose max-w-none text-base leading-relaxed single-pages-content">
-              <p className="mb-4 text-[18px]">Ở <span className="font-bold text-red-600">in UV Hoà Bình</span> đang là một trong những đơn vị in UV có uy tín ở Hồ Chí Minh về việc in sản phẩm chất lượng, độ sắc nét cao, độ bền và bám mực lâu. Và với công nghệ in UV trên được ứng dụng vào việc in trang trí trên da đang trở nên rất phổ biến và dần thay thế các phương pháp sơn, vẽ trên các loại vật liệu trên da.</p>
+              <p className="mb-4 text-[18px]">Ở <span className="font-bold text-red-600 underline">in UV Hoà Bình</span> đang là một trong những đơn vị in UV có uy tín ở Hồ Chí Minh về việc in sản phẩm chất lượng, độ sắc nét cao, độ bền và bám mực lâu. Và với công nghệ in UV trên được ứng dụng vào việc in trang trí trên da đang trở nên rất phổ biến và dần thay thế các phương pháp sơn, vẽ trên các loại vật liệu trên da.</p>
               <p className="mb-2 text-[18px]">Có 3 loại da chủ yếu thông dụng :</p>
               <ul className="mb-4 list-disc pl-8">
-                <li>Da thật (da thuộc) là da của các loài động vật, được thuộc qua lớp hoá chất để khử mùi và tăng độ bền của loại da và dễ gia công</li>
-                <li>Da PU là loại da nhựa nhưng được phủ 1 lớp PU nên sẽ có độ mềm và bền gần như da thật.</li>
-                <li>Da Simili là loại da nhựa được kết hợp tấm dệt kim và nhựa PVC được gia công tạo vân bề mặt nhưng da simili cứng hơn rất nhiều so với da thật.</li>
+                <li className="text-[18px]">Da thật (da thuộc) là da của các loài động vật, được thuộc qua lớp hoá chất để khử mùi và tăng độ bền của loại da và dễ gia công</li>
+                <li className="text-[18px]">Da PU là loại da nhựa nhưng được phủ 1 lớp PU nên sẽ có độ mềm và bền gần như da thật.</li>
+                <li className="text-[18px]">Da Simili là loại da nhựa được kết hợp tấm dệt kim và nhựa PVC được gia công tạo vân bề mặt nhưng da simili cứng hơn rất nhiều so với da thật.</li>
               </ul>
-              <p className="font-bold text-lg mb-4">In UV trên da là như thế nào?</p>
+              <p className="font-bold text-xl mb-4">In UV trên da là như thế nào?</p>
               <p className="mb-4 text-[18px]">Cũng như các phương pháp khác in UV trên da là hình thức dùng mực phun trực tiếp trên bề mặt da để tạo ra các hoa văn, hình ảnh kiểu dáng đa dạng. Nhưng khác với các hình thức sơn và vẽ trên da thời gian thực hiện sẽ chậm do nhân công và chờ khô mực rất lâu, độ sắc nét của hình ảnh hoa văn không cao, màu sắc không đạt yêu cầu.</p>
               <p className="mb-4 text-[18px]">Đổi lại in UV áp dụng đầu phun kỹ thuật số sẽ in trực tiếp các hình ảnh, hoa văn lên bề mặt da trực tiếp với tốc độ cực nhanh kết hợp tia UV sấy khô mực ngay lực tức tại điểm in để tiếp tục in 1 lớp mực tiếp theo ngay sau đó. Với công nghệ in UV như vậy in ấn Hoà Bình sẽ tạo ra sản phẩm in trên da có màu sắc đúng chuẩn theo hình ảnh, độ sắc nét cực cao và thời gian thi công nhanh chóng đảm bảo các đơn hàng lớn. Và mực in khô ngay sau khi in có thể tiến hành gia công tạo hình sản phẩm.</p>
-              <p className="mb-4 text-[18px]">Với chi phí in chỉ <span className="text-red-600 font-bold">250.000VNĐ/ m2</span> in 1 lớp mực và <span className="text-red-600 font-bold">500.000 VNĐ/m2</span> in có lót màu trắng phía dưới. Hãy liên hệ ngay hotline : <span className="text-red-600 font-bold">0901.622.922 Mr Thoan</span> để được tư vấn và báo giá cho từng sản phẩm.</p>
+              <p className="mb-4 text-[18px]">Với chi phí in chỉ 250.000VNĐ/ m2 in 1 lớp mực và 500.000 VNĐ/m2 in có lót màu trắng phía dưới. Hãy liên hệ ngay hotline : <span className="text-red-600 font-bold">0901.622.922 Mr Thoan</span> để được tư vấn và báo giá cho từng sản phẩm.</p>
               <div className="pt-2 pb-2">
                 <span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
                 <div className="mt-2 text-[16px]">
@@ -51,21 +51,21 @@ const ProUVDaPage: React.FC = () => {
                   <span> Hoặc link : <span className="text-blue-600">https://www.inuvhoabinh.com/danh-muc-san-pham/chat-lieu-da-simili.html</span></span>
                 </a>
               </div>
-              <p className="italic pt-4 pb-4 text-blue-700 font-bold"><u>In uv trên da phản quang</u> để làm quả bóng chày xuất khẩu</p>
+              <p className="italic pt-4 pb-4 text-blue-700"><u className="font-bold">In uv trên da phản quang</u> để làm quả bóng chày xuất khẩu</p>
               <div className="my-4">
-                <img src="/image/z4108849506251_11e3ae0f8bc3ce7e4006441676424aaa-2.jpeg" alt="In uv trên da phản quang bóng chày" className="rounded-lg w-full object-cover" />
+                <img src="/assets/sidebar/uvda/da01.jpeg" alt="In uv trên da phản quang bóng chày" className="rounded-lg w-full object-cover" />
               </div>
-              <p className="italic pt-4 pb-4 text-blue-700 font-bold"><u>In uv trên da</u> để làm mẫu balo mới</p>
+              <p className="italic pt-4 pb-4 text-blue-700"><u className="font-bold">In uv trên da</u> để làm mẫu balo mới</p>
               <div className="my-4">
-                <img src="/image/z4213735083712_55e7395f19affada606e476471cfe7ff(1).jpg" alt="In uv trên da làm mẫu balo mới" className="rounded-lg w-full object-cover" />
+                <img src="/assets/sidebar/uvda/da02.jpg" alt="In uv trên da làm mẫu balo mới" className="rounded-lg w-full object-cover" />
               </div>
-              <p className="italic pt-4 pb-4 text-blue-700 font-bold"><u>In uv trên da ảnh</u> để làm mẫu balo mới cho thương hiệu The North Face</p>
+              <p className="italic pt-4 pb-4 text-blue-700"><u className="font-bold">In uv trên da ảnh</u> để làm mẫu balo mới cho thương hiệu The North Face</p>
               <div className="my-4">
-                <img src="/image/z4213735102458_9bbc843f438a52ccdb47646618ca66e0.jpg" alt="In uv trên da ảnh balo The North Face" className="rounded-lg w-full object-cover" />
+                <img src="/assets/sidebar/uvda/da03.jpg" alt="In uv trên da ảnh balo The North Face" className="rounded-lg w-full object-cover" />
               </div>
-              <p className="italic pt-4 pb-4 text-blue-700 font-bold"><u>In uv trên sổ da</u> để làm quà tặng lưu niệm</p>
+              <p className="italic pt-4 pb-4 text-blue-700"><u className="font-bold">In uv trên sổ da</u> để làm quà tặng lưu niệm</p>
               <div className="my-4">
-                <img src="/image/z4213735094988_f6a5c61a83913bf43c3964373b1a1040.jpg" alt="In uv trên sổ da quà tặng" className="rounded-lg w-full object-cover" />
+                <img src="/assets/sidebar/uvda/da04.jpg" alt="In uv trên sổ da quà tặng" className="rounded-lg w-full object-cover" />
               </div>
               <div className="pt-2 pb-2">
                 <span className="text-red-600 text-[22px]">IN UV&nbsp;HOÀ BÌNH&nbsp;</span>
@@ -84,9 +84,8 @@ const ProUVDaPage: React.FC = () => {
               </div>
             </div>
           </div>
-        </main>
 
-                    {/* BẢN TIN LIÊN QUAN */}
+                              {/* BẢN TIN LIÊN QUAN */}
             <section className="max-w-7xl mx-auto w-full mt-8">
                     <h3 className="text-xl md:text-1xl font-bold text-gray-600 mb-2">BẢN TIN LIÊN QUAN</h3>
                     <div className="w-full h-1 flex mb-4">
@@ -147,6 +146,7 @@ const ProUVDaPage: React.FC = () => {
                         
                     </div>
             </section>
+        </main>
       </div>
       <Footer />
     </div>
